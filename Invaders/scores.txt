@@ -1,0 +1,5 @@
+nazwa 445
+test 200
+test 100
+aha 75
+wpis 65
